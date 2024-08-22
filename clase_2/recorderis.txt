@@ -1,0 +1,3 @@
+python -m venv (nombre_carpeta) para crear el entrono virtual
+
+(nombre_carpeta\Scripts\activate) para activar el entorno virtual
